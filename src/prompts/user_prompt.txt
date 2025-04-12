@@ -1,0 +1,8 @@
+Here are two files:
+1. Structured Markdown file containing candidate's education, experiences, skills, projects, and certifications:
+{candidate_info}
+
+2. Job description:
+{job_offer}
+
+Generate a resume strictly matching the job description, adhering to all previous system instructions. The generated resume must strictly match the language of the provided job offer.
